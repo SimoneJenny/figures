@@ -2,6 +2,7 @@ import time
 from turtle import *
 
 color("darkred", "red")
+bgcolor('black')
 begin_fill()
 pensize(6)
 left(50)
